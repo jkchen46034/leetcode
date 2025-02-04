@@ -1,3 +1,6 @@
+greg hogg  youtube
+algomap.io
+
 Two Sum
 Roman to Integer
 Palindrome Number
